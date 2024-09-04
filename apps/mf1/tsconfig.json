@@ -12,10 +12,7 @@
     "moduleResolution": "bundler",
     "useDefineForClassFields": true,
     "allowImportingTsExtensions": true,
-    "verbatimModuleSyntax": true,
-    "paths":{
-      "*": ["./@mf-types/*"]
-    }
+    "verbatimModuleSyntax": true
   },
   "include": ["src"]
 }
